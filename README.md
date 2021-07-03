@@ -1,5 +1,5 @@
 # Projects
-These projects highlight Data Science Skills utilizing real world data in .pdf form:
+These projects highlight Data Science Skills utilizing real world data. 
 Skills include:
 Machine Learning,
 Deep Learning,
